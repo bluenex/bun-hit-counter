@@ -1,9 +1,9 @@
 name = "bun-hit-counter"
+account_id = "ca2e6abb787d5b8d234b68b9644d60ca"
 compatibility_date = "2025-09-19"
+# Where the built React site lives
+pages_build_output_dir = "dist"
 
 [[kv_namespaces]]
 binding = "HIT_COUNTER"
 id = "cd5920f8d60e48588a2f46591907bedb"
-
-[assets]
-directory = "./dist"
