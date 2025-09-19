@@ -1,5 +1,4 @@
 name = "bun-hit-counter"
-account_id = "ca2e6abb787d5b8d234b68b9644d60ca"
 compatibility_date = "2025-09-19"
 # Where the built React site lives
 pages_build_output_dir = "dist"
