@@ -1,0 +1,6 @@
+name = "bun-hit-counter"
+compatibility_date = "2025-09-19"
+
+[[kv_namespaces]]
+binding = "HIT_COUNTER"
+id = "cd5920f8d60e48588a2f46591907bedb"
